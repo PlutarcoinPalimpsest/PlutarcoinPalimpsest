@@ -1,5 +1,7 @@
-## Welcome? :bowtie:
-*I think?*
+## ***Welcome*** :bowtie:
+
+<p>*(I think?)*</p>
+
 ---
 
 Helo there, I'm Plutarco in Palimpsest (internal joke... wiht myself)
