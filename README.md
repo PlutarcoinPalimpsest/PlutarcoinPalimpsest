@@ -1,7 +1,8 @@
 ## Welcome? :bowtie:
-<p>I think?</p>
+*I think?*
 ---
-<p>Helo there, I'm Plutarco in Palimpsest (internal joke... wiht myslef)</p>
+
+Helo there, I'm Plutarco in Palimpsest (internal joke... wiht myself)
 A not so serious writer and programmer trying to be, well, serious.
 
 - I'm working on building the myths, backstory, and main storyline for a book idea 😉
