@@ -1,6 +1,6 @@
 ## ***Welcome*** :bowtie:
 
-<p>*(I think?)*</p>
+<p>(I think?)</p>
 
 ---
 
